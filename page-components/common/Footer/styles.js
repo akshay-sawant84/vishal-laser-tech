@@ -80,3 +80,17 @@ export const Text = styled.div`
   font-weight: 600;
   margin-bottom: 8px;
 `;
+
+export const GoogleMap = styled.div`
+  padding-bottom: 30%;
+  position: relative;
+  margin-bottom: 20px;
+
+  & iframe {
+    height: 100%;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+  }
+`;

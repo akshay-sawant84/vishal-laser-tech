@@ -55,13 +55,13 @@ const LeftContainer = ({ type }) => {
           </Heading>
           <Text>
             Experience flawlessly precise laser cutting processes offered by
-            Vijay Laser Tech, ensuring smooth cutting areas, minimal burrs, heat
+            Vishal Laser Tech, ensuring smooth cutting areas, minimal burrs, heat
             distortion, and material warping. Our commitment to excellence
             eliminates imperfections, reducing the necessity for additional
             secondary operations on the parts.
           </Text>
           <Text>
-            Embrace the advantages of laser cutting at Vijay Laser Tech, where
+            Embrace the advantages of laser cutting at Vishal Laser Tech, where
             high-precision cutting with a tolerance of +/- .005 is the norm.
             This exceptional precision significantly minimizes the need for
             secondary operations and part scrapping. Moreover, our streamlined
@@ -69,7 +69,7 @@ const LeftContainer = ({ type }) => {
             times, providing efficient solutions for a wide range of projects.
           </Text>
           <Text>
-            Unlock a world of possibilities with Vijay Laser Tech&apos;s custom
+            Unlock a world of possibilities with Vishal Laser Tech&apos;s custom
             laser cutting services, offering an extensive range of material
             capabilities. From steel, aluminum, and stainless steel to
             non-ferrous metals like copper, brass, and bronze, our commercial

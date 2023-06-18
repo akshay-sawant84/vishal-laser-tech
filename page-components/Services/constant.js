@@ -29,12 +29,12 @@ export const CONTENT = {
   },
   'sheet-metal-bending': {
     heading: 'Sheet Metal Bending',
-    desc: 'Vijay Laser Tech takes pride in its skilled press brake operators who offer a range of advantages in precision component production. With our Hydraulic Press Brake machine, capable of bending materials up to 2500mm in length and 3mm in thickness, we ensure accurate and efficient bending of complex components. Our operators excel in producing high-quality components, providing the flexibility to bend various materials and thicknesses to meet the required bend angle. With their expertise, we achieve exceptional accuracy, delivering results within approximately ±0.5 degrees.',
+    desc: 'Vishal Laser Tech takes pride in its skilled press brake operators who offer a range of advantages in precision component production. With our Hydraulic Press Brake machine, capable of bending materials up to 2500mm in length and 3mm in thickness, we ensure accurate and efficient bending of complex components. Our operators excel in producing high-quality components, providing the flexibility to bend various materials and thicknesses to meet the required bend angle. With their expertise, we achieve exceptional accuracy, delivering results within approximately ±0.5 degrees.',
     img: '/sheet-bending.jpeg',
   },
   'assembly-and-finishing': {
     heading: 'Assembly and Finishing',
-    desc: 'At Vijay Laser Tech, we prioritize quality in the assembly of sheet metal product components, ensuring a seamless blend of aesthetics and functionality. Our meticulous approach guarantees that every part is meticulously crafted and assembled to meet the highest standards. To enhance the overall finish, we employ various techniques such as power coating, labeling, and rigorous quality checks before dispatch. With our commitment to excellence, we deliver finished products that exude both visual appeal and exceptional performance.',
+    desc: 'At Vishal Laser Tech, we prioritize quality in the assembly of sheet metal product components, ensuring a seamless blend of aesthetics and functionality. Our meticulous approach guarantees that every part is meticulously crafted and assembled to meet the highest standards. To enhance the overall finish, we employ various techniques such as power coating, labeling, and rigorous quality checks before dispatch. With our commitment to excellence, we deliver finished products that exude both visual appeal and exceptional performance.',
     img: '/assembly.jpeg',
   },
 };
