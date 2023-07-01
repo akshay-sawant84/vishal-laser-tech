@@ -32,19 +32,25 @@ const LeftContainer = ({ type }) => {
           </Text>
           <ul className="pl-16">
             <li>
-              <Text1>Mild Steel - upto 8 mm Thick</Text1>
+              <Text1>Mild Steel - upto 14 mm Thick</Text1>
             </li>
             <li>
-              <Text1>Galvanized Steel - upto 8 mm Thick</Text1>
+              <Text1>Galvanized Steel - upto 14 mm Thick</Text1>
             </li>
             <li>
-              <Text1>Stainless - upto 3 mm Thick</Text1>
+              <Text1>Stainless - upto 8 mm Thick</Text1>
             </li>
             <li>
-              <Text1>Aluminum - upto 3 mm Thick</Text1>
+              <Text1>Aluminum - upto 6 mm Thick</Text1>
             </li>
             <li>
-              <Text1>Sheet size - 3000 x 1500 mm</Text1>
+              <Text1>Brass - upto 3 mm Thick</Text1>
+            </li>
+            <li>
+              <Text1>Copper - upto 3 mm Thick</Text1>
+            </li>
+            <li>
+              <Text1>Sheet size - 3000 x 1500 mm, 1220 x 2440 mm</Text1>
             </li>
             <li>
               <Text1>Cutting accuracy: +/- 0.005 mm/mtr</Text1>
@@ -55,8 +61,8 @@ const LeftContainer = ({ type }) => {
           </Heading>
           <Text>
             Experience flawlessly precise laser cutting processes offered by
-            Vishal Laser Tech, ensuring smooth cutting areas, minimal burrs, heat
-            distortion, and material warping. Our commitment to excellence
+            Vishal Laser Tech, ensuring smooth cutting areas, minimal burrs,
+            heat distortion, and material warping. Our commitment to excellence
             eliminates imperfections, reducing the necessity for additional
             secondary operations on the parts.
           </Text>

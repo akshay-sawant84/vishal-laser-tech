@@ -10,7 +10,7 @@ import Page404 from '../Page404';
 const Services = () => {
   const router = useRouter();
   const { query } = router;
-  const { type } = query;
+  const { type = 'laser-cutting' } = query;
 
   if (SERVICE_CONSTANTS.includes(type)) {
     return (

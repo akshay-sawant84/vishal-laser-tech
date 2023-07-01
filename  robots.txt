@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Sitemap: https://vishallasertech.com/sitemap.xml

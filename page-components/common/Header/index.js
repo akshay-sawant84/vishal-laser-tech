@@ -9,7 +9,7 @@ import LocationOnIcon from '@mui/icons-material/LocationOn';
 
 const Header = () => {
   const handlePhoneClick = () => {
-    const phoneNumber = '1234567890';
+    const phoneNumber = '7303053069';
     const telLink = `tel:${phoneNumber}`;
     window.open(telLink, '_blank');
   };
@@ -26,7 +26,7 @@ const Header = () => {
   };
 
   const handleEmailClick = () => {
-    const emailAddress = 'example@example.com';
+    const emailAddress = 'info@vishallasertech.com';
     const emailLink = `mailto:${emailAddress}`;
     window.open(emailLink, '_blank');
   };
@@ -63,7 +63,7 @@ const Header = () => {
             <TextContainer onClick={handleEmailClick}>
               <EmailIcon className="mr-4" style={{ color: '#fff' }} />
               <Typography variant="subtitle1" ml={1} color="#fff">
-                vishallasertech@gmail.com
+                info@vishallasertech.com
               </Typography>
             </TextContainer>
           </Flex>

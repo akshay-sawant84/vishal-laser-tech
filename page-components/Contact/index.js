@@ -14,6 +14,12 @@ import EmailIcon from '@mui/icons-material/Email';
 import PlaceIcon from '@mui/icons-material/Place';
 
 const Contact = () => {
+  const handleEmailClick = () => {
+    const emailAddress = 'example@example.com';
+    const emailLink = `mailto:${emailAddress}`;
+    window.open(emailLink, '_blank');
+  };
+
   return (
     <>
       <TitleContainer>
@@ -49,8 +55,8 @@ const Contact = () => {
               </Flex>
             </PersonDetails>
             <PersonDetails>
-              <Flex mb="24px">
-                <EmailIcon className="icon" /> vishallasertech@gmail.com
+              <Flex mb="24px" onClick={handleEmailClick}>
+                <EmailIcon className="icon" /> info@vishallasertech.com
               </Flex>
               <Flex>
                 <PlaceIcon color="red" className="icon" /> Gala no B/37, Raza ul
